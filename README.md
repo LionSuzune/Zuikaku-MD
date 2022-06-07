@@ -11,8 +11,8 @@
 <a href="https://github.com/LionSuzune/Zuikaku-MD"><img title="Recode" src="https://img.shields.io/badge/Recode-LION-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Alphabot-Md?color=blue&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/followers"><img title="Followers" src="https://img.shields.io/github/followers/LionSuzune?color=red&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Zuikaku-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LionSuzune/Zuikaku-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Alphabot-Md?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
