@@ -120,6 +120,6 @@ Constributor | For Help |
 For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![LION](http://github.com/LionSuzune.png?size=100)](http://github.com/LionSuzune) 
 [Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |[LionSuzune](https://github.com/LionSuzune) | Bot punya Zuikaku
+Owner of Baileys | Bot Punya Zuikaku |[LionSuzune](https://github.com/LionSuzune) | Bot punya Zuikaku
 
 
