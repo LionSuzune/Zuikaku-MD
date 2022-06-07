@@ -13,12 +13,12 @@
 <p align="center">
 <a href="https://github.com/LionSuzune/followers"><img title="Followers" src="https://img.shields.io/github/followers/LionSuzune?color=red&style=flat-square"></a>
 <a href="https://github.com/LionSuzune/Zuikaku-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LionSuzune/Zuikaku-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/LionSuzune/Zuikaku-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LionSuzune/Alphabot-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/LionSuzune/Zuikaku-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LionSuzune/Alphabot-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-MD"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Alphabot-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/LionSuzune/Zuikaku-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LionSuzune/Zuikaku-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Zuikaku-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LionSuzune/Zuikaku-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/LionSuzune/Zuikaku-MD"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/LionSuzune/Zuikaku-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/LionSuzune/Zuikaku-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2LionSuzune%2FZuikaku X Elysia-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/LionSuzune/Zuikaku-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
