@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ZUIKAKU" width="100"/>
+<img src="https://github.com/LionSuzune/Zuikaku-MD/blob/v7.1/image/lol_1.jpg" alt="ZUIKAKU X ELYSIA" width="100"/>
 
 
 </p>
