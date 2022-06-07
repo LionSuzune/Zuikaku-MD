@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/LionSuzune/Zuikaku-MD/blob/v7.1/image/lol_1.jpg" alt="ZUIKAKU MD" width="100"/>
+<img src="https://user-images.githubusercontent.com/103966803/172324675-9fd80bba-6115-4672-a56d-21f3f8dfd19a.jpg
+" alt="ZUIKAKU MD" width="100"/>
 
 
 </p>
