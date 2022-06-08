@@ -72,16 +72,16 @@ global.ownername= "Julian" //your name
 global.myweb ="https://api.zeeoneofc.xyz" //up to you
 global.youtube = "https://m.youtube.com/channel/UCKTdQnHWeGgwiwz35zmduGg" //up to you
 global.github = "https://github.com/LionSuzune" //up to you
-global.email = "lionsuzune99@gmail.com" //bebas
+global.email = "lionsuzune99@gmail.com" //up to you
 global.region = "Indonesia" //up to you
 global.ownernomer = "6285795586847" // your phone number
 global.ownernomerr = "+6285795586847" //your phone number
 global.thumbnail = "./image/lol.jpg" // this is a thumbnail image
 global.donasi = "./image/donasi.jpg" // this is a picture of the donation instead
 global.background_welcome="https://telegra.ph/file/4d0799393af213a745d88.jpg" // this is the welcome image, the max size is 30kb to 40kb so you don't delay the welcome
-global.owner = ["6285795586847","6285795586847","62887433094409"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Julian X Zuikaku' //sticker wm ubah
-global.author = 'Di Buat Oleh Julian' //sticker wm ganti nama kalian
+global.owner = ["6285795586847","6285795586847","62887433094409"] //your phone number
+global.packname = '© Julian X Zuikaku' //dont change it
+global.author = 'Di Buat Oleh Julian' //dont change it
 global.sessionName = 'session'
 ```
 
