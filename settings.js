@@ -18,21 +18,21 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Zuikaku - MD" //namabot kalian
-global.ownername= "Julian" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://m.youtube.com/channel/UCKTdQnHWeGgwiwz35zmduGg" //bebas asal jan hapus
-global.github = "https://github.com/LionSuzune" //bebas
-global.email = "lionsuzune99@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.ownernomer = "6285795586847" // nomor wa kalian
-global.ownernomerr = "+6285795586847" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/4d0799393af213a745d88.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285795586847","6285795586847","62887433094409"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Julian X Zuikaku' //sticker wm ubah
-global.author = 'Di Buat Oleh Julian' //sticker wm ganti nama kalian
+global.botname = "Zuikaku - MD" //your bot name
+global.ownername= "Julian" //your name
+global.myweb ="https://api.zeeoneofc.xyz" //up to you
+global.youtube = "https://m.youtube.com/channel/UCKTdQnHWeGgwiwz35zmduGg" //up to you
+global.github = "https://github.com/LionSuzune" //up to you
+global.email = "lionsuzune99@gmail.com" //up to you
+global.region = "Indonesia" //up to you
+global.ownernomer = "6285795586847" // your phone number
+global.ownernomerr = "+6285795586847" //your phone number
+global.thumbnail = "./image/lol.jpg" // this is a thumbnail image
+global.donasi = "./image/donasi.jpg" // this is a picture of the donation instead
+global.background_welcome="https://telegra.ph/file/4d0799393af213a745d88.jpg" // this is the welcome image, the max size is 30kb to 40kb so you don't delay the welcome
+global.owner = ["6285795586847","6285795586847","62887433094409"] //your phone number
+global.packname = '© Julian X Zuikaku' //dont change it
+global.author = 'Di Buat Oleh Julian' //dont change it
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
