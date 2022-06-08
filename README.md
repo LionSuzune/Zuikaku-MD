@@ -96,7 +96,7 @@ global.sessionName = 'session'
 </p>
 
 ## Donate
-- [Allpay](0887433094409)
+- [Allpay] 0887433094409
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
