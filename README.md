@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/103966803/172324675-9fd80bba-6115-4672-a56d-21f3f8dfd19a.jpg" alt="ZUIKAKU MD" width="100"/>
+<img src="https://telegra.ph/file/a24268c776d18b8552806.jpg" alt="ZUIKAKU MD" width="100"/>
 
 
 </p>
