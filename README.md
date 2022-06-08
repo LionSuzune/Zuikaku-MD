@@ -51,9 +51,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```ts
 apt update && apt upgrade
 pkg install bash
-git clone [https://github.com/zeeone-ofc/Alphabot-Md.git]
+git clone https://github.com/LionSuzune/Zuikaku-MD.git
 cd Alphabot-Md
 bash install.sh
+yarn install
+npm start
 ```
 
 ## Edit file
