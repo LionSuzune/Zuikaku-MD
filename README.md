@@ -87,7 +87,7 @@ global.sessionName = 'session'
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/SdKHkld2NcI)<br>
+[`Click Here For Tutorial`](https://youtu.be/WIK1FqKQDxk)<br>
 
 ----------
 
