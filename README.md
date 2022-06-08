@@ -34,8 +34,7 @@
 ---
 
 ## Information
-> Zuikaku / Elysia MD adalah punya Lion dan Sasha Chan ini adalah bot md ini bukan bot biasa ya, sc ori itu hisoka atau base chika saya hanya recode aja maklum aja ^^
-> Jika ambil sc mah minta izin dulu ke Lion atau Sasha yak, Jngan asal nyolong
+> Zuikaku or Elysia is a multi-device bot, this script is based on hisoka or chika, um, if you add a Zuikaku or bot, I have to ask permission from the bot owner
 # Requirements
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
