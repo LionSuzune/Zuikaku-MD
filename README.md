@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#donate">Donate</a>
+  <a href="https://github.com/LionSuzune/Zuikaku-MD#requirements">Requirements</a> •
+  <a href="https://github.com/LionSuzune/Zuikaku-MD#instalasi">Installation</a> •
+  <a href="https://github.com/LionSuzune/Zuikaku-MD#thanks-to">Thanks to</a> •
+  <a href="https://github.com/LionSuzune/Zuikaku-MD#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/LionSuzune/Zuikaku-MD#donate">Donate</a>
 </p>
 </div>
 
