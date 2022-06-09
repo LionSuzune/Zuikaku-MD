@@ -869,7 +869,7 @@ running away or do you know metal >_<
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-sc? Chat with Beloved Owner  wa.me/62887433094409
+sc? https://github.com/LionSuzune/Zuikaku-MD
 `
 }
 exports.tos = (ownernomer) => {
