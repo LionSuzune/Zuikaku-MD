@@ -113,7 +113,7 @@ Constributor | Owner Julian |
 [Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
 For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![LION](http://github.com/LionSuzune.png?size=100)](http://github.com/LionSuzune) 
-[Adiwajshing](https://github.com/adiwajshing) | [LionSuzune](https://github.com/LionSuzune/)
+[Adiwajshing](https://github.com/adiwajshing) | [LION](https://github.com/LionSuzune)
 Owner of Baileys | Bot Punya Zuikaku |[LionSuzune](https://github.com/LionSuzune/) | Bot punya Zuikaku
 
 
