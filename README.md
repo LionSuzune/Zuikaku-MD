@@ -69,9 +69,9 @@ global.available = false //status online (online)
 // Other
 global.botname = "Zuikaku - MD" //your bot name
 global.ownername= "Julian" //your name
-global.myweb ="https://api.zeeoneofc.xyz" //up to you
+global.myweb ="https://github.com/LionSuzune" //up to you
 global.youtube = "https://m.youtube.com/channel/UCKTdQnHWeGgwiwz35zmduGg" //up to you
-global.github = "https://github.com/LionSuzune" //up to you
+global.github = "https://github.com/LionSuzune/Zuikaku-MD" //up to you
 global.email = "lionsuzune99@gmail.com" //up to you
 global.region = "Indonesia" //up to you
 global.ownernomer = "6285795586847" // your phone number
