@@ -53,7 +53,7 @@ apt update && apt upgrade
 pkg install bash
 git clone https://github.com/LionSuzune/Zuikaku-MD.git
 cd Alphabot-Md
-bash install.sh
+bash install.sh or npm install
 yarn install
 npm start
 ```
